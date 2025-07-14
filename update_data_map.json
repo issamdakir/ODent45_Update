@@ -1,0 +1,65 @@
+{
+    "Odent_Library": [
+        "Odent_Library"
+    ],
+    "odent_modules": [
+        "odent_modules"
+    ],
+
+    "__init__.py": [
+        "__init__.py"
+    ],
+    "ui.py": [
+        "ui.py"
+    ],
+    "props.py": [
+        "props.py"
+    ],
+    "utils.py": [
+        "utils.py"
+    ],
+
+    "ODENT_Operators.py": [
+        "Operators",
+        "ODENT_Operators.py"
+    ],
+    "ODENT_Utils.py": [
+        "Operators",
+        "ODENT_Utils.py"
+    ],
+    "looptools.py": [
+        "Operators",
+        "looptools.py"
+    ],
+
+    "ODENT_BlendData.blend": [
+        "Resources",
+        "BlendData",
+        "ODENT_BlendData.blend"
+    ],
+    
+    "Odent_Library_Archive": [
+        "Resources",
+        "Odent_Library_Archive"
+    ],
+
+    "blender_assets.cats.txt": [
+        "Resources",
+        "Odent_Library_Archive",
+        "blender_assets.cats.txt"
+    ],
+    
+    
+    "odent_app_template.zip": [
+        "Resources",
+        "odent_app_template.zip"
+    ],
+    "ODENT_Version.txt": [
+        "Resources",
+        "ODENT_Version.txt"
+    ],
+    "startup.blend": [
+        "Resources",
+        "startup.blend"
+    ]
+}
